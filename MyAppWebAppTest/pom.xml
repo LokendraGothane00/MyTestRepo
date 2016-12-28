@@ -4,7 +4,7 @@
   <groupId>com.opus.maven.app</groupId>
   <artifactId>MyAppWebAppTest</artifactId>
   <packaging>war</packaging>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.0.0-RELEASE</version>
   <name>MyAppWebAppTest Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
